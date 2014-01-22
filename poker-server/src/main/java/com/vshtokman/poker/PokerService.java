@@ -1,6 +1,5 @@
 package com.vshtokman.poker;
 
-import com.vshtokman.poker.api.Card;
 import com.yammer.dropwizard.Service;
 import com.yammer.dropwizard.config.Bootstrap;
 import com.yammer.dropwizard.config.Environment;

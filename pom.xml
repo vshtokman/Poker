@@ -12,6 +12,7 @@
     <module>poker-server</module>
     <module>poker-client</module>
     <module>poker-api</module>
+    <module>poker-judge</module>
   </modules>
   
   <properties>

@@ -7,7 +7,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>poker-server</artifactId>
+  <artifactId>poker-judge</artifactId>
 
   <version>0.0.1-SNAPSHOT</version>
   
@@ -15,11 +15,6 @@
     <dependency>
       <groupId>com.vshtokman.poker</groupId>
       <artifactId>poker-api</artifactId>
-      <version>${project.parent.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.vshtokman.poker</groupId>
-      <artifactId>poker-judge</artifactId>
       <version>${project.parent.version}</version>
     </dependency>
   </dependencies>
